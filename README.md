@@ -1,8 +1,10 @@
 ![테블로 사진](https://github.com/kgw08003/BDA_Tableau/assets/109195054/4bf42b7f-b869-4d18-ac2f-262242474ebe)
 - BDA에서 현장 수업에서 Tableau 기초 수업을 들었었는데 생각보다 효과적인 툴인것 같아서 추가 수업을 신청함
+------------
 
- ![image](https://github.com/kgw08003/BDA_Tableau/assets/109195054/c2c4c46f-d4d9-41a8-9353-a9f673ad9cbd)
+![image](https://github.com/user-attachments/assets/788d51ae-37ba-48ce-b86a-d287b6ae9504)
 
+-----------
 
 
 활동기간
@@ -19,3 +21,6 @@
 8일차 : 집합/매개변수 값 변경
 9일차 : 모범 사례를 통한 대시보드와 차트 개선
 10일차 : Prep Builder를 이용한 데이터 정리
+
+-----------
+ ![image](https://github.com/kgw08003/BDA_Tableau/assets/109195054/c2c4c46f-d4d9-41a8-9353-a9f673ad9cbd)
